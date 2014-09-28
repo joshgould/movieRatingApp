@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "movieRatingApp"
+        }, 
+        "movieRatingApp": {
+            "applicationId": "2vIm0wWoXnxZGlNnqJebItgZLLcXoZUM4jVeFXJ6", 
+            "masterKey": "WeUHTELt2dK6q4o5AqfJbuQKOJMsfiX3IxgIC3Zl"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}
